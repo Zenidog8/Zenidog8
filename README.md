@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 ## Hi there 👋
 
 I'm a software developer from Costa Rica. I'm passionate about technology and I love to learn new things.
@@ -8,11 +6,8 @@ I'm currently working as a Software Development Engineer at [**Amazon AWS**](htt
 ## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenidog8)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/zenidog8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pe.linkedin.com/in/zenidog8)
 [![Mail Badge](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodolfojose1996@gmail.com)
-
-<!-- Create a stats section for my github profile page -->
 
 ## Languages and Tools
 
@@ -30,7 +25,6 @@ I'm currently working as a Software Development Engineer at [**Amazon AWS**](htt
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## My GitHub Stats
     
