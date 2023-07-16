@@ -27,9 +27,10 @@ I'm currently working as a Software Development Engineer at [**Amazon AWS**](htt
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## My GitHub Stats
-    
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zenidog8&show_icons=true&locale=en&theme=gotham)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zenidog8&theme=gotham)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenidog8&theme=gotham)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zenidog8&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenidog8&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
