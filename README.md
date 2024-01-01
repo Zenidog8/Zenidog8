@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jose Rodolfo
 ====================================================================================================================================
 
-Software Development Engineer II
+Software Engineer
 --------------------------------
 
-I'm a software developer from Costa Rica. I'm passionate about technology and I love to learn new things. I'm currently working as a Software Development Engineer at Amazon AWS.
+I'm a software developer from Costa Rica. I'm passionate about technology and I love to learn new things. I'm currently working as a Software Development Engineer II at Amazon.
 
 * 🌍  I'm based in Alajuela, Costa Rica.
 * ✉️  You can contact me at [rodolfojose1996@gmail.com](mailto:rodolfojose1996@gmail.com)
