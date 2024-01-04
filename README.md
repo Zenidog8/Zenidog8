@@ -9,7 +9,7 @@ I'm a software developer with a fervent enthusiasm for technology and an insatia
 * 🌍  I'm based in Costa Rica
 * ✉️  You can contact me at [rodolfojose1996@gmail.com](mailto:rodolfojose1996@gmail.com)
 * 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on Machine Learning projects
+* 🤝  I'm open to collaborate on Machine Learning projects
 * ⚡  I support L.D. Alajuelense
 
 ### Skills
