@@ -60,5 +60,5 @@ Currently, I work at Xbox building internal tools and infrastructure that stream
 <a href="https://github.com/Zenidog8" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenidog8" alt="Top Languages" /></a>
 
 
-![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zenidog8&show_icons=true&theme=default&hide_border=true)  
+![José's GitHub Stats](http://www.github.com/Zenidog8"><img src="https://github-readme-stats.vercel.app/api?username=Zenidog8&show_icons=true&hide=&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zenidog8&layout=compact&hide_border=true)
