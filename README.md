@@ -1,10 +1,11 @@
 Hi 👋 My name is Jose Godínez
 =============================
 
+
 🎮 **Software Engineer II at Xbox**  
 💻 Ex-Amazon | MSc in Artificial Intelligence  
 🎓 Lecturer @ Costa Rica Institute of Technology 
-📍 Based in Alajuela, Costa Rica 
+📍 Based in Alajuela, Costa Rica
 -----------------
 
 I'm a software engineer with experience across Big Tech companies like Microsoft, Amazon, and IBM. I specialize in:
