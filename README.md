@@ -49,16 +49,5 @@ Currently, I work at Xbox building internal tools and infrastructure that stream
 
 ## GitHub Stats
 
-<a href="http://www.github.com/Zenidog8"><img src="https://github-readme-stats.vercel.app/api?username=Zenidog8&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="Zenidog8's GitHub stats" /></a>
-
-<a href="https://github.com/Zenidog8" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenidog8&langs_count=10&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
-<a href="http://www.github.com/Zenidog8"><img src="https://github-readme-stats.vercel.app/api?username=Zenidog8&show_icons=true&hide=&count_private=true" alt="Zenidog8's GitHub stats" /></a>
-
-<a href="https://github.com/Zenidog8" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenidog8" alt="Top Languages" /></a>
-
-
 ![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zenidog8&show_icons=true&hide=&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zenidog8&layout=compact&hide_border=true)
