@@ -26,6 +26,21 @@ Currently, I work at Xbox building internal tools and infrastructure that stream
 - 👨‍🏫 Technical Education & Mentorship
 
 
+## 🛠️ Technologies
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Cloud & Tools:**  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+
+
 ## Skills
 
 <p align="left">
