@@ -54,6 +54,18 @@ Currently, I work at Xbox building internal tools and infrastructure that stream
 <a href="https://www.x.com/theZenidog" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 
+## 📊 GitHub Stats
+
+![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zenidog8&show_icons=true&theme=default&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zenidog8&layout=compact&hide_border=true)
+
+---
+
+## 📈 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=zenidog8&theme=github-compact&hide_border=true)
+
+
 ## Badges
 
 <b>My GitHub Stats</b>
