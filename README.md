@@ -47,6 +47,14 @@ Currently, I work at Xbox building internal tools and infrastructure that stream
 <a href="https://www.x.com/theZenidog" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 
+## 🌐 Connect with Me
+
+[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/Zenidog8)
+[![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](https://instagram.com/zenidog8)
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://linkedin.com/in/zenidog8)
+[![YouTube](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg)](https://youtube.com/@zenidog8)
+[![Twitter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://x.com/theZenidog)
+
 ## GitHub Stats
 
 ![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zenidog8&show_icons=true&hide=&count_private=true)  
