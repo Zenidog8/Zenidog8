@@ -59,6 +59,7 @@ I’m a software engineer passionate about building scalable systems, improving 
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello world](https://dev.to/zenidog8/hello-world-4hjk)
 <!-- BLOG-POST-LIST:END -->
 
 ## Get in Touch
