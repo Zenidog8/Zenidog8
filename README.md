@@ -56,12 +56,6 @@ I’m a software engineer passionate about building scalable systems, improving 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-FF9900?style=flat&logo=amazondynamodb&logoColor=white)
 
-## Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Hello world](https://dev.to/zenidog8/hello-world-4hjk)
-<!-- BLOG-POST-LIST:END -->
-
 ## Get in Touch
 
 <p align="left">
@@ -72,7 +66,8 @@ I’m a software engineer passionate about building scalable systems, improving 
 <a href="https://www.youtube.com/@zenidog8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zenidog8" height="30" width="40" /></a>
 </p>
 
-## GitHub Stats
+## Blog posts
 
-![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zenidog8&show_icons=true&hide=&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zenidog8&layout=compact&hide_border=true)
+<!-- BLOG-POST-LIST:START -->
+- [Hello world](https://dev.to/zenidog8/hello-world-4hjk)
+<!-- BLOG-POST-LIST:END -->
