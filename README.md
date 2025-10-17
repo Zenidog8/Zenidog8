@@ -1,8 +1,8 @@
 # Hi 👋 My name is Jose Godínez
 
-🛠️ **Software Engineer | Computer Science Lecturer**
-💻 Ex-Microsoft | Ex-Amazon | MSc in Artificial Intelligence
-🎓 Adjunct Professor @ Costa Rica Institute of Technology
+🛠️ **Software Engineer | Computer Science Lecturer**  
+💻 Ex-Microsoft | Ex-Amazon | MSc in Artificial Intelligence  
+🎓 Adjunct Professor @ Costa Rica Institute of Technology  
 📍 Based in Alajuela, Costa Rica
 
 I’m a software engineer passionate about building scalable systems, improving developer experience, and exploring how AI can be applied to real-world problems. I focus on:
