@@ -32,16 +32,6 @@ https://github.com/microsoft/PackageUploader
 
 ---
 
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zenidog8&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenidog8&layout=compact&hide_border=true)
-
-> Most of my professional work is developed in private repositories at Amazon and Microsoft.
-
----
-
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/zenidog8
