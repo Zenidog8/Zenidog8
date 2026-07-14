@@ -40,5 +40,6 @@ https://github.com/microsoft/PackageUploader
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How AI Changed My Perspective on Education—and Why We Need to Rethink Assessment](https://dev.to/zenidog8/how-ai-changed-my-perspective-on-education-and-why-we-need-to-rethink-assessment-71j)
 - [Hello world](https://dev.to/zenidog8/hello-world-4hjk)
 <!-- BLOG-POST-LIST:END -->
